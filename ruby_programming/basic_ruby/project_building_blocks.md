@@ -506,6 +506,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [Caleb's Solution](https://github.com/calebrauscher/The-Odin-Project/blob/master/Ruby/caesar_cipher.rb)
 * [Eduardo06sp's Solution](https://github.com/Eduardo06sp/caesar-cipher)
 * [Nathan Choi's Solution](https://github.com/sihoonathan/ruby_practice/blob/master/caesar_cipher.rb)
+* [Sanyogita's solution](https://github.com/SanyogitaPandit/RubyProgramming/blob/master/CaesarCipher.rb)
 </details>
 
 ### Project 2: Stock Picker
